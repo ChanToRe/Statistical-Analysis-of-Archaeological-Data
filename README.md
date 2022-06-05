@@ -17,7 +17,8 @@
 - [PPT](https://github.com/ChanToRe/Statistical-Analysis-of-Archaeological-Data/raw/main/Week2/Week2%20-%20%EA%B8%B0%EC%B4%88%ED%86%B5%EA%B3%84(1).pdf), [Code](https://github.com/ChanToRe/Statistical-Analysis-of-Archaeological-Data/blob/main/Week2/Week2-%EA%B8%B0%EC%B4%88%ED%86%B5%EA%B3%84(1).R)
 
 ### [Week3] 기초통계(2)
-🚧👷‍♂️🚧
+- 변수의 종류 / 가설과 검정 / 오류 / 분석절차
+- [PPT](https://github.com/ChanToRe/Statistical-Analysis-of-Archaeological-Data/raw/main/Week3/Week3%20-%20%EA%B8%B0%EC%B4%88%ED%86%B5%EA%B3%84(2).pdf), [Code](https://github.com/ChanToRe/Statistical-Analysis-of-Archaeological-Data/blob/main/Week3/Week3-%EA%B8%B0%EC%B4%88%ED%86%B5%EA%B3%84(3).R)
 
 ### [Week4] 전처리
 🚧👷‍♂️🚧
