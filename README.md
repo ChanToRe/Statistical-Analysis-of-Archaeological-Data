@@ -25,7 +25,8 @@
 - [PPT](https://github.com/ChanToRe/Statistical-Analysis-of-Archaeological-Data/raw/main/Week4/Week4%20-%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A0%84%EC%B2%98%EB%A6%AC.pdf), [Code](https://github.com/ChanToRe/Statistical-Analysis-of-Archaeological-Data/blob/main/Week4/Week4-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%A0%84%EC%B2%98%EB%A6%AC.R), [Data](https://github.com/ChanToRe/Statistical-Analysis-of-Archaeological-Data/tree/main/Week4/Data)
 
 ### [Week5] 시각화
-🚧👷‍♂️🚧
+- 데이터 시각화
+- [PPT](https://github.com/ChanToRe/Statistical-Analysis-of-Archaeological-Data/raw/main/Week5/Week5%20-%20%EC%8B%9C%EA%B0%81%ED%99%94.pdf), [Code](https://github.com/ChanToRe/Statistical-Analysis-of-Archaeological-Data/blob/main/Week5/Week5-%EC%8B%9C%EA%B0%81%ED%99%94.R), [Data](https://github.com/ChanToRe/Statistical-Analysis-of-Archaeological-Data/tree/main/Week5/Data)
 
 ### [Week6] 검정
 🚧👷‍♂️🚧
