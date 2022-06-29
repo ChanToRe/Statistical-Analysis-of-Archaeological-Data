@@ -28,8 +28,8 @@
 - 데이터 시각화
 - [PPT](https://github.com/ChanToRe/Statistical-Analysis-of-Archaeological-Data/raw/main/Week5/Week5%20-%20%EC%8B%9C%EA%B0%81%ED%99%94.pdf), [Code](https://github.com/ChanToRe/Statistical-Analysis-of-Archaeological-Data/blob/main/Week5/Week5-%EC%8B%9C%EA%B0%81%ED%99%94.R), [Data](https://github.com/ChanToRe/Statistical-Analysis-of-Archaeological-Data/tree/main/Week5/Data)
 
-### [Week6] 검정
-🚧👷‍♂️🚧
+### [Week6] 검정과 상관분석
+- [PPT](https://github.com/ChanToRe/Statistical-Analysis-of-Archaeological-Data/raw/main/Week6/Week6%20-%20%EA%B2%80%EC%A0%95%EA%B3%BC%20%EC%83%81%EA%B4%80%EB%B6%84%EC%84%9D.pdf), [Code](https://github.com/ChanToRe/Statistical-Analysis-of-Archaeological-Data/blob/main/Week6/Week6%20-%20%EA%B2%80%EC%A0%95%EA%B3%BC%20%EC%83%81%EA%B4%80%EB%B6%84%EC%84%9D.R), [Data](https://github.com/ChanToRe/Statistical-Analysis-of-Archaeological-Data/tree/main/Week6/Data)
 
 ### [Week7] 회귀분석
 🚧👷‍♂️🚧
