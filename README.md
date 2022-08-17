@@ -36,11 +36,8 @@
 - 단순선형회귀 / 다중선형회귀 / 로지스틱회귀
 - [PPT](https://github.com/ChanToRe/Statistical-Analysis-of-Archaeological-Data/raw/main/Week7/Week7%20-%20%ED%9A%8C%EA%B7%80%EB%B6%84%EC%84%9D.pdf), [Code](https://github.com/ChanToRe/Statistical-Analysis-of-Archaeological-Data/blob/main/Week7/Week6%20-%20%EA%B2%80%EC%A0%95%EA%B3%BC%20%EC%83%81%EA%B4%80%EB%B6%84%EC%84%9D.R), [Data](https://github.com/ChanToRe/Statistical-Analysis-of-Archaeological-Data/tree/main/Week7/Data)
 
-### [Week8] 군집분석
-🚧👷‍♂️🚧
+### [Week8] 군집분석과 판별분석
+- [PPT](https://github.com/ChanToRe/Statistical-Analysis-of-Archaeological-Data/blob/main/Week8/Week8%20-%20%EA%B5%B0%EC%A7%91%EB%B6%84%EC%84%9D%EA%B3%BC%20%ED%8C%90%EB%B3%84%EB%B6%84%EC%84%9D.pdf), [Code](https://github.com/ChanToRe/Statistical-Analysis-of-Archaeological-Data/blob/main/Week8/Week8%20-%20%EA%B5%B0%EC%A7%91%EB%B6%84%EC%84%9D%EA%B3%BC%20%ED%8C%90%EB%B3%84%EB%B6%84%EC%84%9D.R), [Data](https://github.com/ChanToRe/Statistical-Analysis-of-Archaeological-Data/tree/main/Week8/Data)
 
-### [Week9] 판별분석
-🚧👷‍♂️🚧
-
-### [Week10] 주성분분석
+### [Week9]주성분분석
 🚧👷‍♂️🚧
