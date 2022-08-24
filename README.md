@@ -1,3 +1,5 @@
+<img src="https://user-images.githubusercontent.com/64909586/186408061-58a88e85-be08-47f2-b3b3-2c9e04a9dec6.png" width=50% height=50%>
+
 # 'Statistical Analysis of Archaeological Data' Lecture Notes
 
 - 숭실대학교 일반대학원 사학과(고고학 전공)의 고고학 자료 통계분석 스터디 강의자료입니다.
