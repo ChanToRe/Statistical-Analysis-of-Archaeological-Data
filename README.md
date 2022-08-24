@@ -4,7 +4,7 @@
 - 강의에 주로 사용되는 교재는 아래와 같습니다.
 	1. [Robert, D. Drennan, 2009, 고고학을 위한 통계학(김범철 옮김), 경기:진인진.](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9788963474069&orderClick=SPY)
 	2. [J. D. Long&Paul Teetor, 2019, R CookBook(이제원 옮김), 서울:인사이트.](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788966262984&orderClick=LAG&Kc=#)
-- 본 스터디는 10주 과정으로 구성되어 있습니다.
+- 본 스터디는 9주 과정으로 구성되어 있습니다.
 - 문의 사항은 [Issues](https://github.com/ChanToRe/Statistical-Analysis-of-Archaeological-Data/issues)를 사용하거나 [메일](chanhyeok@soongsil.ac.kr)을 보내주세요.
 
 ## 목차(Contents)
@@ -37,7 +37,9 @@
 - [PPT](https://github.com/ChanToRe/Statistical-Analysis-of-Archaeological-Data/raw/main/Week7/Week7%20-%20%ED%9A%8C%EA%B7%80%EB%B6%84%EC%84%9D.pdf), [Code](https://github.com/ChanToRe/Statistical-Analysis-of-Archaeological-Data/blob/main/Week7/Week6%20-%20%EA%B2%80%EC%A0%95%EA%B3%BC%20%EC%83%81%EA%B4%80%EB%B6%84%EC%84%9D.R), [Data](https://github.com/ChanToRe/Statistical-Analysis-of-Archaeological-Data/tree/main/Week7/Data)
 
 ### [Week8] 군집분석과 판별분석
+- K-means, LDA
 - [PPT](https://github.com/ChanToRe/Statistical-Analysis-of-Archaeological-Data/blob/main/Week8/Week8%20-%20%EA%B5%B0%EC%A7%91%EB%B6%84%EC%84%9D%EA%B3%BC%20%ED%8C%90%EB%B3%84%EB%B6%84%EC%84%9D.pdf), [Code](https://github.com/ChanToRe/Statistical-Analysis-of-Archaeological-Data/blob/main/Week8/Week8%20-%20%EA%B5%B0%EC%A7%91%EB%B6%84%EC%84%9D%EA%B3%BC%20%ED%8C%90%EB%B3%84%EB%B6%84%EC%84%9D.R), [Data](https://github.com/ChanToRe/Statistical-Analysis-of-Archaeological-Data/tree/main/Week8/Data)
 
 ### [Week9]주성분분석
-🚧👷‍♂️🚧
+- PCA, 부록
+- [PPT](https://github.com/ChanToRe/Statistical-Analysis-of-Archaeological-Data/raw/main/Week9/Week9%20-%20PCA%2C%20Oxcal.pdf), [Code1](https://github.com/ChanToRe/Statistical-Analysis-of-Archaeological-Data/blob/main/Week9/PCA.R), [Code2](https://github.com/ChanToRe/Statistical-Analysis-of-Archaeological-Data/blob/main/Week9/oxcAAR_RDate.R)
